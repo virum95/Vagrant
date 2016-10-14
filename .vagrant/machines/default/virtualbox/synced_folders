@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/virum/Infor/Cuarto/ASN/caja/wordpress","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/virum/Infor/Cuarto/ASN/caja","disabled":false}}}
